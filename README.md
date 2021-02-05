@@ -1,2 +1,2 @@
-## API practice
+## API project for personal practice
 
